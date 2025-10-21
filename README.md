@@ -1,4 +1,7 @@
-# Ubuntu-Server-Administration
+# Ubuntu Server Administration Project
+This repository showcases my experience configuring and securing Ubuntu servers on Azure.  
+It summarizes multi-phase projects completed during my Systems Administration coursework at Stony Brook University.
+
 ## Overview
 This project involved configuring and managing an Ubuntu virtual machine on Microsoft Azure to simulate real-world server administration tasks. Over the course of several assignments, I implemented services, hardened security, and automated processes used in enterprise environments.
 
@@ -45,3 +48,9 @@ This project involved configuring and managing an Ubuntu virtual machine on Micr
 - Integrating authentication systems (LDAP, VPN)
 - Automating builds and server monitoring
 - Troubleshooting real-world deployment issues on cloud VMs
+
+---
+### Academic Integrity Note
+This repository is for **portfolio and demonstration purposes only**.  
+Original assignments were completed as part of Stony Brook University's **Systems Administration** course.  
+All materials have been renamed and sanitized to avoid distributing any course solutions or answer keys.
